@@ -35,7 +35,9 @@ No bloat, no overhead. Pure quality and reliability.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 📦 Plugins & Docs: dev.gerghostface.de
+
 💬 Discord Community: discord.com/invite/YTCHWAap2z
+
 ✉️ Business Contact: kontakt@gerghostface.de
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
