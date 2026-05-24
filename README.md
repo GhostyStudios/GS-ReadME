@@ -1,5 +1,4 @@
 👻 G H O S T Y S T U D I O S
-Next-Level Minecraft Plugin Experience
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
